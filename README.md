@@ -1,9 +1,11 @@
-TypeScript Hello World Demo
+TypeScript Parse Code "ts-morph" Demo
 ===========================
+
+使用ts-morph来解析typescript文件，得到信息
 
 ```
 npm install
-npm run demo
+npm start
 ```
 
 Note:

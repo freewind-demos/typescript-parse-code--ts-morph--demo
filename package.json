@@ -1,9 +1,10 @@
 {
   "scripts": {
-    "demo": "ts-node hello.ts"
+    "start": "ts-node hello.ts"
   },
   "devDependencies": {
     "@types/node": "13.7.7",
+    "ts-morph": "^20.0.0",
     "ts-node": "8.6.2",
     "typescript": "3.8.3"
   }
